@@ -1,0 +1,4 @@
+/*
+  This component is no longer used and can be deleted. 
+  Image handling has been switched to using direct URLs.
+*/
